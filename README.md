@@ -1,7 +1,7 @@
 # Information
 Practice App Land using ReactJs
 
-Link Web Github Pages : https://webicat.github.io/practice-appland/
+Link Web Github Pages : https://rommyth.github.io/practice-appland/
 
 Tutorial by
 YT Channel : TA Develops
